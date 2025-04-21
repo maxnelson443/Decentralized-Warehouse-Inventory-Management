@@ -9,3 +9,5 @@ S
 #tests/facility-verification.test.ts,8/8/88689f5cc9d2955d6d66796acc56d284a659c315
 T
 $tests/regulatory-requirement.test.ts,a/2/a275f7f36ecc8c94c0177c7d796e6e548b93fdb2
+T
+$deployments/default.simnet-plan.yaml,6/9/69a1a25a878ebb83f71a85e268e7aeee4705af03
